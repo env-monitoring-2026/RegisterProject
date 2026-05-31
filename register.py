@@ -177,8 +177,8 @@ def send_email(to_email, login, password):
 Ваша учётная запись создана. Данные для подключения:{data_block}
 
 Для начала работы Вам необходимо скачать по приведённым ссылкам:
-1. Прошивку выносного узла: https://cloud.mail.ru/public/eJ1x/i71AxdYoS
-2. Клиентское приложение для Windows / Linux: https://cloud.mail.ru/public/U2B7/f5KiukTnH
+1. Прошивку выносного узла: https://cloud.mail.ru/public/oMrC/aVrRUWDVA
+2. Клиентское приложение для Windows / Linux: https://cloud.mail.ru/public/jpzS/kdzVdEDxS
 3. Инструкцию по настройке и запуску: https://cloud.mail.ru/public/i33r/zeWhH2zC4
 
 Если у Вас возникли проблемы:
