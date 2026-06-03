@@ -178,7 +178,7 @@ def send_email(to_email, login, password):
 
 Для начала работы Вам необходимо скачать по приведённым ссылкам:
 1. Прошивку выносного узла: https://cloud.mail.ru/public/oMrC/aVrRUWDVA
-2. Клиентское приложение для Windows / Linux: https://cloud.mail.ru/public/jpzS/kdzVdEDxS
+2. Клиентское приложение для Windows / Linux: https://cloud.mail.ru/public/x3NL/4SXz3WfKN
 3. Инструкцию по настройке и запуску: https://cloud.mail.ru/public/i33r/zeWhH2zC4
 
 Если у Вас возникли проблемы:
